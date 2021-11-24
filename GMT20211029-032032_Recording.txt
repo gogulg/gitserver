@@ -1,0 +1,17 @@
+00:36:25	Kanaheswary V:	done
+00:36:45	SNEHA V R:	done
+00:36:46	RESHMA M U:	done
+01:21:54	Panchashil:	node -v // check nodejs npm -v // check npmtsc -v // to check ts
+01:31:16	Panchashil:	npm install -g typescript  // to install typescript *how to execute ts file step-1: compile ts file => tsc filename.ts (after successfully compilation it conver it into plain js file)step-2: execute js file => node filename.js
+06:22:26	Safeeq K K:	tsc -t es5 getandset.ts
+06:22:51	Safeeq K K:	use cmd
+06:27:41	SNEHA V R:	done
+06:33:19	Kanaheswary V:	done sir
+06:44:51	Panchashil:	https://docs.google.com/forms/d/e/1FAIpQLSdrOSyTmcVF6wn2TPqL4SDpYjeglpNsLM7cQAgRgbhrcsAGNQ/viewform?usp=sf_link
+06:46:52	Zohaib Iqbal:	zohaib.iqbal@reflectionsinfos.com
+06:49:22	Zohaib Iqbal:	iqbalzohaib81@gmail.com
+06:54:12	sai  akhil Etikoti-454:	submitted
+06:54:49	RESHMA M U:	done
+08:14:52	Panchashil:	https://docs.google.com/forms/d/e/1FAIpQLSejoZZQO8fg_xEdVFtCHXWh81enUFVWmAiDllsddlnDKkfomA/viewform?usp=sf_link
+08:15:34	Zohaib Iqbal:	iqbalzohaib81@gmail.com
+09:04:52	Kanaheswary V:	thank you so much sir..
